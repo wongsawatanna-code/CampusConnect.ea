@@ -53,7 +53,7 @@ Les diagrammes sont disponibles dans le dossier `UML/` :
 
 ### Documentation Confluence
 
-[Consulter l'espace documentaire CampusConnect](LIEN_CONFLUENCE_A_AJOUTER)
+[Consulter l'espace documentaire CampusConnect](https://efrei-team-s2xefgn3.atlassian.net/wiki/x/rwAF)
 
 ## Contribution
 
